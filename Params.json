@@ -1,0 +1,36 @@
+{
+  "wwokey": "5477a0bc1cf0928ce412482f32068",
+  "geckoboardkey": "c0c598642c119da6128a79777da730f8",
+  "widgetmap": {
+    "widget1": {
+      "type": "CurrentCondition",
+      "number": "122831-ea0beccd-5c7a-47a0-85fe-3aa23c02cf56"
+    },
+    "widget2": {
+      "type": "Highcharts",
+      "tablename": "Temperature Forecast",
+      "unit": "\u00B0C",
+      "map": {
+        "FeelsLikeC": "Fells Like",
+        "tempC": "Temperature"
+      },
+      "number": "122831-d0bee14f-b8ae-4e5a-846e-4a58728402b2"
+    },
+    "widget3": {
+      "type": "Highcharts",
+      "tablename": "Weather Forecast",
+      "unit": "Percentage",
+      "map": {
+        "chanceoffog": "Chance of Fog",
+        "chanceofrain": "Chance of Rain",
+        "chanceofsnow": "Chance of Snow",
+        "chanceofsunshine": "Chance of Sunshine"
+      },
+      "number": "122831-f815c991-8093-45ca-9a55-577e059a11b5"
+    },
+    "widget4": {
+      "type": "DailyActivities",
+      "number": "122831-4e9f2bc7-19a7-4981-922a-e7ce2fe4e047"
+    }
+  }
+}
